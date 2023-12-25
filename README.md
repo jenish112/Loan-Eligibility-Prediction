@@ -1,7 +1,7 @@
 # Loan-Eligibility-Prediction
 
 <p align="center" width="100%">
-  <img src="[https://wdjenish.web.app/static/media/Netflix.35d70e3206a8e6d3180b.jpg](https://images.moneycontrol.com/static-mcnews/2022/11/1de-636x435.jpg?impolicy=website&width=770&height=431)" alt="Project Logo" height="200">
+  <img src="https://images.moneycontrol.com/static-mcnews/2022/11/1de-636x435.jpg?impolicy=website&width=770&height=431" alt="Project Logo" height="200">
 </p>
 
 ## Introduction

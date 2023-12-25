@@ -1,5 +1,9 @@
 # Loan-Eligibility-Prediction
 
+<p align="center" width="100%">
+  <img src="[https://wdjenish.web.app/static/media/Netflix.35d70e3206a8e6d3180b.jpg](https://images.moneycontrol.com/static-mcnews/2022/11/1de-636x435.jpg?impolicy=website&width=770&height=431)" alt="Project Logo" height="200">
+</p>
+
 ## Introduction
 
 Welcome to **Loan-Eligibility-Prediction**! Let's predict whether a loan ID is eligible or not based on factors such as ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History, and more. My goal is to submit a report to my client, who is a bank manager. This report should help them efficiently decide whether to approve an application or not in a short amount of time. Let's get started.
@@ -9,7 +13,7 @@ Welcome to **Loan-Eligibility-Prediction**! Let's predict whether a loan ID is e
 Just a few steps to get you up and running with the project:
 
 1. **Clone** this repository.
-2. **Run** in the `Jupiter notebook` or `Google collab notebook`.
+2. **Run** in the `Jupiter notebook` or `Google Collab notebook`.
 3. **import** all the `files`, `packages`, and `libraries`.
 4. **Run** all the cell.
 
